@@ -1,0 +1,27 @@
+Start
+
+Input the user grievance
+
+Is the grievance related to a specific department?
+Yes -> Send the grievance to the concerned department
+No -> Send the grievance to the general grievance department
+
+Is the grievance a duplicate?
+Yes -> Notify the user that the grievance has already been registered
+No -> Register the grievance in the system
+
+Assign a unique ID to the grievance
+
+Assign the grievance to a designated officer or team
+
+The officer/team assesses the grievance and prepares a resolution plan
+
+The resolution plan is sent to the user for review and approval
+
+If approved, the resolution plan is implemented
+
+If not approved, the user can raise an appeal
+
+The appeal is sent to a higher authority for review and resolution
+
+End
