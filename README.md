@@ -24,14 +24,20 @@ Linux - Go to /opt/lampp in terminal and run ./xampp start
 ## Usage
 Dependency	Version
 
-php	7.2
+php- 7.2
 
-mySql	8.1
+mySql- 8.1
 
-phpmailer	5.2.27
+Phpmailer-  5.2.27
 
 Jquery	1.8.2
 
+## 
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## Contributing
 
@@ -43,3 +49,16 @@ Please make sure to update tests as appropriate.
 ## License
 
 Licence under  [IIIT](https://choosealicense.com/licenses/iiita/)
+
+## Contact Information
+For any inquiries or suggestions regarding the Grievance Portal, please contact the project contributors:
+
+Nitesh Kumar Shah: iib2021002@iiita.ac.in
+
+Aditya Yalamanchi: iib2021001@iiita.ac.in
+
+Saurabh Singh: iit2021257@iiita.ac.in 
+
+Abishek Bidhan: iib2021009@iiita.ac.in
+
+John Ambooken: iib2021005@iiita.ac.in
