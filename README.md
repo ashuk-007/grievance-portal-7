@@ -2,7 +2,7 @@
 
 Here, we as a team ( Saurabh Singh- IIT2021257, Aditya Yalamanchi-IIB2021001, Nitesh Kumar Shah-IIB2021002,John Ambooken-IIB2021005, Abhisek-IIB2021009) are assigned a project of Greviance management, specifically for a state of India to solve a real time problem of addressing the problem of the general Public through our Website- Software that we designed.
 On the Supervision of Aashutosh Sir. 
-## Customer Panel
+## User Panel
 
 ![0](https://user-images.githubusercontent.com/54521023/119057415-1625e480-b9ea-11eb-8be3-02cba45727bd.png)
 ![1](https://user-images.githubusercontent.com/54521023/119057420-1a520200-b9ea-11eb-9c3a-893061a6e5ee.png)
